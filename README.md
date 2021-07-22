@@ -41,14 +41,14 @@ You have to change the api url in file Frontend/src/hooks/useLogic.ts on line nu
 ```bash
 http://localhost:6060/
 ```
-For Backend you have to run folling commad : 
+For Backend you have to run following commad : 
 
 ```bash
 cd Game-Assignment/Backend
 npm install 
 npn run dev
 ```
-For Frontend you have to run folling commad : 
+For Frontend you have to run following commad : 
 
 ```bash
 cd Game-Assignment/Frontend
