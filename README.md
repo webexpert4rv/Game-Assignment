@@ -31,6 +31,9 @@ Detailed directory structure for both frontend and backend.
 
 
 ## Installation
+```bash
+git clone git@github.com:webexpert4rv/Game-Assignment.git
+```
 Port 6060 will be used for backend and 3000 for frontend. Please keep both port open and unused.
 
 You have to change the api url in file Frontend/src/hooks/useLogic.ts on line number 4
